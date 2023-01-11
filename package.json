@@ -1,0 +1,24 @@
+{
+  "name": "@muh-arifulislam/number-to-word",
+  "version": "1.0.0",
+  "description": "this will convert number to word",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muh-arifulislam/number-to-word.git"
+  },
+  "keywords": [
+    "number",
+    "to",
+    "word"
+  ],
+  "author": "Md. Ariful Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muh-arifulislam/number-to-word/issues"
+  },
+  "homepage": "https://github.com/muh-arifulislam/number-to-word#readme"
+}
